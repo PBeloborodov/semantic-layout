@@ -1,0 +1,12 @@
+@import "./variable";
+
+.body {
+  font-family: 'Roboto', sans-serif;
+  background-color: $color-fon;
+  color: $color-silver-chalice;
+}
+a  {
+  list-style: none;
+  text-decoration: none;
+  color: $color-silver-chalice;
+}
