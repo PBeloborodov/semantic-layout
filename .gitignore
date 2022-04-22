@@ -1,10 +1,2 @@
 node_modules
-.DS_Store
-*.log
-.vscode
-dist
-lib
-build
-tsconfig.tsbuildinfo
 .idea
-env.ts
